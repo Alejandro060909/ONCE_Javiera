@@ -6,17 +6,51 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 0.9em;
+    flex:1;
+    border-radius: 2em;
+    color: #ddd;
 }
+body{
+    background-color: #111;
+    height: 100vh;
+    width: 100vw;
+}
+title{
+    font-size: 0;
+}
+
 
 .tarjeta {
 
-    border: 1px solid #ccc;
-    width: 50%;
+    border: 1px solid #eee;
+    width: 80vw;
     height: auto;
+    font-size:1em;
+    box-shadow: 1em 1em 2em #aaa3;
 }
 
 img{
-    width: 10vw;
+    width: 20vw;
     height: auto;
+    box-shadow: 1em 1em 2em #aaa3;
 }
+
+.perfilheaderiMg{
+    border-radius: 100%;
+}
+
+.miniaturas{
+    display: flex;
+    
+    flex-wrap: wrap;
+}
+
+.img1andimg2{
+    width: 50%;
+    height: auto;
+
+}
+
+
 
