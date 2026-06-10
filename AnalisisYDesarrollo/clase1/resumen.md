@@ -21,6 +21,7 @@
 
 ## Metodologías Ágiles
 
+
 ### 1. Scrum (Gestión por Ritmo)
 Se basa en bloques de tiempo fijos (*Sprints*) y roles muy definidos para mantener el enfoque.
 
